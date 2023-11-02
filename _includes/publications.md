@@ -31,10 +31,10 @@
       <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arxiv</a>
       {% endif %}
       {% if link.conf_link %} 
-      <a href="{{ conf_link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Conference</a>
+      <a href="{{ link.conf_link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Conference</a>
       {% endif %}
       {% if link.journal_link %} 
-      <a href="{{ journal_link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Journal</a>
+      <a href="{{ link.journal_link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Journal</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
