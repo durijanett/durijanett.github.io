@@ -24,8 +24,8 @@
       </div>
       {% if link.journal %} 
       <div class="periodical"><em>{{ link.journal }}</em>
-      {% endif %}
       </div>
+      {% endif %}
     <div class="links">
       {% if link.arxiv %} 
       <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arxiv</a>
