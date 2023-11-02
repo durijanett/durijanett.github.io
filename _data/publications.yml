@@ -4,10 +4,10 @@ main:
     authors: Carola Doerr, <strong>Duri Andrea Janett</strong>, Johannes Lengler
     conference_short: GECCO'23
     conference: Proceedings of the Genetic and Evolutionary Computation Conference, <strong>(GECCO) 2023</strong>, Lisbon, Portugal.
-    arxiv: https://arxiv.org/abs/2302.12338
-
+    pdf: https://arxiv.org/abs/2302.12338
 
   - title: Two-Dimensional Drift Analysis: Optimizing Two Functions Simultaneously Can Be Hard
     authors: <strong>Duri Janett</strong>, Johannes Lengler
     conference_short: PPSN'22
     conference: International Conference on Parallel Problem Solving from Nature <strong>(PPSN) 2022</strong>, Dortmund, Germany.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
