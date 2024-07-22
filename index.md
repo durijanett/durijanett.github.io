@@ -17,7 +17,7 @@ Before coming to Copenhagen, I received a Bachelor's and Master's degree in math
 
 ## News
 
-- **[Jul. 2024]** The journal version of our GECCO '23 paper is now available [online](https://link.springer.com/article/10.1007/s00453-024-01258-9).
+- **[Jul. 2024]** The journal version of our GECCO '23 paper is now available online [here](https://link.springer.com/article/10.1007/s00453-024-01258-9).
 - **[Sep. 2023]** I started my PhD!
 
 {% include_relative _includes/publications.md %}
