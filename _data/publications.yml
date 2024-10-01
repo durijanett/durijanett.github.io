@@ -3,9 +3,11 @@ main:
   - title: "Tight Runtime Bounds for Static Unary Unbiased Evolutionary Algorithms on Linear Functions"
     authors: with Carola Doerr and Johannes Lengler
     conference: Proceedings of the Genetic and Evolutionary Computation Conference, <strong>(GECCO) 2023</strong>.
+    journal: <strong>Algorithmica</strong> (2024) 86:3115-3152.
     pdf: https://arxiv.org/pdf/2302.12338.pdf
     arxiv: https://arxiv.org/abs/2302.12338
     conf_link: https://dl.acm.org/doi/10.1145/3583131.3590482
+    journal_link: https://link.springer.com/article/10.1007/s00453-024-01258-9
 
   - title: "Two-Dimensional Drift Analysis: Optimizing Two Functions Simultaneously Can Be Hard"
     authors: <strong>Duri Janett</strong>, Johannes Lengler
