@@ -30,6 +30,9 @@
       {% if link.arxiv %} 
       <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arxiv</a>
       {% endif %}
+      {% if link.eccc %} 
+      <a href="{{ link.eccc }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ECCC</a>
+      {% endif %}
       {% if link.conf_link %} 
       <a href="{{ link.conf_link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Conference</a>
       {% endif %}
