@@ -5,7 +5,6 @@ main:
     conference: Technical Report
     pdf: https://arxiv.org/pdf/2411.14267
     arxiv: https://arxiv.org/abs/2411.14267
-    eccc: https://eccc.weizmann.ac.il/report/2024/185/
 
   - title: "Tight Runtime Bounds for Static Unary Unbiased Evolutionary Algorithms on Linear Functions"
     authors: Carola Doerr, <strong>Duri Andrea Janett</strong> and Johannes Lengler
