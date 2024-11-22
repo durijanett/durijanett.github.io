@@ -1,9 +1,9 @@
 main:
 
-  - title: "Truly Supercritical Trade-offs for Resolution, Cutting Planes, Monotone Circuits, and Weisfeiler-Leman"
+  - title: "Truly Supercritical Trade-offs for Resolution, Cutting Planes, Monotone Circuits, and Weisfeiler--Leman"
     authors: Susanna F. de Rezende, Noah Fleming, <strong>Duri Andrea Janett</strong>, Jakob Nordström and Shuo Pang
     conference: Technical Report (2024).
-    pdf: https://arxiv.org/pdf/2411.14267
+    pdf: https://arxiv.org/abs/2411.14267
     arxiv: https://arxiv.org/abs/2411.14267
     eccc: https://eccc.weizmann.ac.il/report/2024/185/
 
