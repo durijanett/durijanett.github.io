@@ -2,14 +2,14 @@ main:
 
   - title: "Truly Supercritical Trade-offs for Resolution, Cutting Planes, Monotone Circuits, and Weisfeiler–Leman"
     authors: Susanna F. de Rezende, Noah Fleming, <strong>Duri Andrea Janett</strong>, Jakob Nordström and Shuo Pang
-    conference: Technical Report (2024).
+    conference: To appear in Proceedings of the 57th Annual ACM Symposium on Theory of Computing <strong>(STOC 2025)</strong>.
     pdf: https://arxiv.org/abs/2411.14267
     arxiv: https://arxiv.org/abs/2411.14267
     eccc: https://eccc.weizmann.ac.il/report/2024/185/
 
   - title: "Tight Runtime Bounds for Static Unary Unbiased Evolutionary Algorithms on Linear Functions"
     authors: Carola Doerr, <strong>Duri Andrea Janett</strong> and Johannes Lengler
-    conference: Proceedings of the Genetic and Evolutionary Computation Conference, <strong>(GECCO) 2023</strong>.
+    conference: Proceedings of the Genetic and Evolutionary Computation Conference <strong>(GECCO 2023)</strong>.
     journal: <strong>Algorithmica</strong> (2024) 86:3115-3152.
     pdf: https://arxiv.org/abs/2302.12338
     arxiv: https://arxiv.org/abs/2302.12338
@@ -18,7 +18,7 @@ main:
 
   - title: "Two-Dimensional Drift Analysis: Optimizing Two Functions Simultaneously Can Be Hard"
     authors: <strong>Duri Janett</strong> and Johannes Lengler
-    conference: International Conference on Parallel Problem Solving from Nature, <strong>(PPSN) 2022</strong>. <br> <strong> <i style="color:#e74d3c">Best Paper Nomination</i></strong>
+    conference: Proceedings of the International Conference on Parallel Problem Solving from Nature <strong>(PPSN 2022)</strong>. <br> <strong> <i style="color:#e74d3c">Best Paper Nomination</i></strong>
     journal: <strong>Theoretical Computer Science</strong> 971 (2023) 114072.
     pdf: https://arxiv.org/abs/2203.14547
     arxiv: https://arxiv.org/abs/2203.14547
