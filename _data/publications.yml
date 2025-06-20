@@ -2,10 +2,11 @@ main:
 
   - title: "Truly Supercritical Trade-offs for Resolution, Cutting Planes, Monotone Circuits, and Weisfeiler–Leman"
     authors: Susanna F. de Rezende, Noah Fleming, <strong>Duri Andrea Janett</strong>, Jakob Nordström and Shuo Pang
-    conference: To appear in Proceedings of the 57th Annual ACM Symposium on Theory of Computing <strong>(STOC&nbsp;2025)</strong>.
+    conference: Proceedings of the 57th Annual ACM Symposium on Theory of Computing <strong>(STOC&nbsp;2025)</strong>.
     pdf: https://arxiv.org/abs/2411.14267
     arxiv: https://arxiv.org/abs/2411.14267
     eccc: https://eccc.weizmann.ac.il/report/2024/185/
+    conf_link: https://dl.acm.org/doi/10.1145/3717823.3718271
     miao_seminar: https://www.youtube.com/watch?v=iIfZRZtVWcQ
 
   - title: "Tight Runtime Bounds for Static Unary Unbiased Evolutionary Algorithms on Linear Functions"
