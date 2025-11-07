@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second year PhD student at the University of Copenhagen and Lund University, advised by [Jakob Nordström](https://jakobnordstrom.github.io/). I am a member of the [MIAO group](https://jakobnordstrom.github.io/miao-group/).  
+I am a third year PhD student at the University of Copenhagen, advised by [Jakob Nordström](https://jakobnordstrom.github.io/). I am a member of the [MIAO group](https://jakobnordstrom.github.io/miao-group/).  
 My interests are in computational complexity theory, and in particular proof complexity.  
 Before coming to Copenhagen, I received a Bachelor's and Master's degree in mathematics from ETH Zürich, where I was advised by [Carola Doerr](https://webia.lip6.fr/~doerr/) and [Johannes Lengler](https://as.inf.ethz.ch/people/members/lenglerj/index.html).
 
