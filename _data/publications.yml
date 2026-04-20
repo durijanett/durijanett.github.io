@@ -1,5 +1,9 @@
 main:
 
+  - title: "Average-Case Hardness of Binary-Encoded Clique in Proof and Communication Complexity"
+    authors: Susanna F. de Rezende, David Engström, Yassine Ghannane, <strong>Duri Andrea Janett</strong>, and Artur Riazanov
+    conference: Proceedings of the 53rd EATCS International Colloquium on Automata, Languages, and Programming <strong>(ICALP&nbsp;2026)</strong>, to appear. 
+
   - title: "Truly Supercritical Trade-offs for Resolution, Cutting Planes, Monotone Circuits, and Weisfeiler–Leman"
     authors: Susanna F. de Rezende, Noah Fleming, <strong>Duri Andrea Janett</strong>, Jakob Nordström and Shuo Pang
     conference: Proceedings of the 57th Annual ACM Symposium on Theory of Computing <strong>(STOC&nbsp;2025)</strong>.
